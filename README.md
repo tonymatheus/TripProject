@@ -19,5 +19,8 @@ após instalar digite o seguinte comendo  para  executar o  server :
     
 esse comando  executa o server e roda ele na porta 3333.
 
+#### Olha como ficou 
+
+![TripProject](https://github.com/tonymatheus/TripProject/blob/master/Reservas.gif)
 
 
