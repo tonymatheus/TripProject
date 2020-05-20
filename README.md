@@ -15,7 +15,7 @@ Na Aplicação foi utilizada uma API Fake que  retorna fotos e  dados  de pontos
 
 após instalar digite o seguinte comendo  para  executar o  server :
 
-    >json-server server.json -p 3333  
+   - json-server server.json -p 3333 
     
 esse comando  executa o server e roda ele na porta 3333.
 
