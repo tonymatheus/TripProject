@@ -8,12 +8,12 @@ da biblioteca._
 
 - Iniciando a Aplicação :
 
-após dar o Git Clone no Repositório execute o comando yarn install para instalar as  dependências necessárias para o funcionamento da aplicação.
+- após dar o Git Clone no Repositório execute o comando yarn install para instalar as  dependências necessárias para o funcionamento da aplicação.
 
-Na Aplicação foi utilizada uma API Fake que  retorna fotos e  dados  de pontos turísticos para  rodar  essa api é  necessário instalar o JSON server , para fazer  isso  execute o comando :
+- Na Aplicação foi utilizada uma API Fake que  retorna fotos e  dados  de pontos turísticos para  rodar  essa api é  necessário instalar o JSON server , para fazer  isso  execute o comando :
    >**yarn add json-server** 
 
-após instalar digite o seguinte comendo  para  executar o  server :
+- após instalar digite o seguinte comendo  para  executar o  server :
 
    - json-server server.json -p 3333 
     
