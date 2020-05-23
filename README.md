@@ -25,8 +25,8 @@ esse comando  executa o server e roda ele na porta 3333.
 
 ##### Tecnologias utilizadas :
 - [x] React
-- [x]JavaScript
-- [x]Redux
-- [x]Redux-Sagas
+- [x] JavaScript
+- [x] Redux
+- [x] Redux-Sagas
 
 
