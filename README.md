@@ -23,4 +23,10 @@ esse comando  executa o server e roda ele na porta 3333.
 
 ![TripProject](https://github.com/tonymatheus/TripProject/blob/master/Reservas.gif)
 
+##### Tecnologias utilizadas :
+- [x] React
+- [x]JavaScript
+- [x]Redux
+- [x]Redux-Sagas
+
 
